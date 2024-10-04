@@ -1,4 +1,4 @@
-# SauceDemo Test Automation
+# Saucedemo Test Automation
 
 ## Description
 This project automates the login functionality tests for the SauceDemo website using WebDriverIO and Page Object Model desing pattern.
