@@ -1,0 +1,31 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","710","Given the user is on the login page,
+            And the user enters a valid username and password,
+            When the user clicks the ""Login"" button,
+            Then the user should be redirected to the dashboard,
+            And the dashboard title ""Swag Labs"" should be displayed","","Fri Oct 04 15:38:31 COT 2024","passed","Fri Oct 04 15:38:31 COT 2024","","Saucedemo login functionality: UC-3: Test Login form with credentials by passing Username & Password","",""
+"","2825","Given the user is on the login page, 
+            When user enters credentials 
+            And the user clears the inputs
+            And clicks on the ""Login"" button,
+            Then an error message ""Username is required"" should be displayed","","Fri Oct 04 15:38:27 COT 2024","passed","Fri Oct 04 15:38:30 COT 2024","","Saucedemo login functionality: UC-1: Test Login form with empty credentials","",""
+"","3015","Given the user is on the login page, 
+            When user enters credentials 
+            And the user clears the inputs
+            And clicks on the ""Login"" button,
+            Then an error message ""Username is required"" should be displayed","","Fri Oct 04 15:38:23 COT 2024","passed","Fri Oct 04 15:38:26 COT 2024","","Saucedemo login functionality: UC-1: Test Login form with empty credentials","",""
+"","954","Given the user is on the login page,
+            When the user enters the username,
+            And the password field is left empty,
+            And the user clicks the ""Login"" button,
+            Then an error message ""Password is required"" should be displayed","","Fri Oct 04 15:38:30 COT 2024","passed","Fri Oct 04 15:38:31 COT 2024","","Saucedemo login functionality: UC-2: Test Login form with credentials by passing Username","",""
+"","735","Given the user is on the login page,
+            When the user enters the username,
+            And the password field is left empty,
+            And the user clicks the ""Login"" button,
+            Then an error message ""Password is required"" should be displayed","","Fri Oct 04 15:38:26 COT 2024","passed","Fri Oct 04 15:38:26 COT 2024","","Saucedemo login functionality: UC-2: Test Login form with credentials by passing Username","",""
+"","764","Given the user is on the login page,
+            And the user enters a valid username and password,
+            When the user clicks the ""Login"" button,
+            Then the user should be redirected to the dashboard,
+            And the dashboard title ""Swag Labs"" should be displayed","","Fri Oct 04 15:38:26 COT 2024","passed","Fri Oct 04 15:38:27 COT 2024","","Saucedemo login functionality: UC-3: Test Login form with credentials by passing Username & Password","",""
